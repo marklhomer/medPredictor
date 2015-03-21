@@ -1,2 +1,2 @@
 # medPredictor
-predictive engine using medications
+- predictive engine using medications
